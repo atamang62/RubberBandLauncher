@@ -4,6 +4,11 @@ Asish and Dylan
 
 In this we are making a rubber band laucher with a servo. The servo is activated by a button. When it pressed down on the servo should rotate lauching the rubber band.
 
+# Week #3
+
+Some progress I made in CAD this week is getting all the materials fastened onto the handgun. I put on all the nuts and screws.
+One obstacle i had to overcome was making the holes for the materials. I had to make sure they were the right size and in the correct place.
+
 ## Psuedo Code
 
 
