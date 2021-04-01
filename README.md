@@ -16,6 +16,34 @@ When I return from spring break, the first thing im going to do is start lazer c
 
 ## Psuedo Code
 
+  // first thing is to read both buttons
+
+// use IF statements to determine if a button is being pressed
+  
+// IF first button is pressed, go clockwise (use button toggle code)
+    // IF second button is pressed, go counter clockwise, (use button toggle code)
+
+// if neither button is being pressed, servo should not be moving 
+//finally, make sure to serial print the button values and servo value, at the end of void loop
+}
+  
+const int BUTTON1 = 2;
+const int BUTTON2 = 4;
+
+int BUTTONstate1 = 0;
+int BUTTONstate2 = 0;
+
+void setup()
+{
+  pinMode(BUTTON1, INPUT);
+  pinMode(BUTTON2, INPUT);
+}
+
+void loop()
+{
+  BUTTONstate1 = digitalRead(BUTTON1);
+  BUTTONstate2 = digitalRead(BUTTON2);
+}
 
 
 
