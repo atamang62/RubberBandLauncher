@@ -26,7 +26,7 @@ When I return from spring break, the first thing im going to do is start lazer c
 // if neither button is being pressed, servo should not be moving 
 //finally, make sure to serial print the button values and servo value, at the end of void loop
 }
- ```c++
+ ```C++
 const int BUTTON1 = 2;
 const int BUTTON2 = 4;
 
@@ -44,6 +44,7 @@ void loop()
   BUTTONstate1 = digitalRead(BUTTON1);
   BUTTONstate2 = digitalRead(BUTTON2);
 }
+
 ```
 
 
