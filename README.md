@@ -26,13 +26,13 @@ When I return from spring break, the first thing im going to do is start lazer c
 // if neither button is being pressed, servo should not be moving 
 //finally, make sure to serial print the button values and servo value, at the end of void loop
 }
-  
+  ```c++
 const int BUTTON1 = 2;
 const int BUTTON2 = 4;
 
 int BUTTONstate1 = 0;
 int BUTTONstate2 = 0;
-
+```
 void setup()
 {
   pinMode(BUTTON1, INPUT);
