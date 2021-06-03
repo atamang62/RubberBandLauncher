@@ -47,6 +47,23 @@ void loop()
 
 ```
 
+## Circuit Diagram
+
+## Materials 
+
+- 3d printed shell and acrylic glass for the launcher
+- two buttons and a switch for the main functions
+- a battery and a ardunio board
+- nuts and screws
+
+
+## Pictures/Videos
+
+no picture or videos
+
+## Problems
+
+There was a lot of problems with our projects. Few things that we had trouble with were one of the nuts being stuck in one of the buttons. The screws not being the right size for the hole of the battery holder. Not having the hole for the power source for the ardunio. We could hae avoided this problem if we checked the final desing in onshape before printing. 
 
 
 ## Onshape link
